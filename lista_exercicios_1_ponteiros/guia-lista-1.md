@@ -1,5 +1,5 @@
 # Guia 1
-## [Lista de Exercício 1](./../assets/files/Lista_Exercicio_1_ED2.PDF)
+## [Lista de Exercício 1](./../assets/files/Lista_Exercicio_1_ED2.pdf)
 | Questão  | Resolução |
 | ------------- | ------------- |
 | Prática 1 | [🟢](./questao_1.c)|
