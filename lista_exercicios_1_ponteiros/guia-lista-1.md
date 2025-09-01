@@ -2,9 +2,9 @@
 ## [Lista de Exercício 1](/./assets/files/Lista_Exercicio_1__ED2.PDF)
 | Questão  | Resolução |
 | ------------- | ------------- |
-| [.](.)  | [.](.)|
+| Prática 1 | [🟢](/questao_1.c)|
 | ...  | ...  |
 | ...  | ...  |
 
 ***
-![teste](/./assets/files/Lista_Exercicio_1_ED2.pdf)
+[Voltar ao Início](/./readme.md)
