@@ -1,5 +1,5 @@
 # Guia 1
-## [Lista de Exercício 1](/../assets/files/Lista_Exercicio_1__ED2.PDF)
+## [Lista de Exercício 1](./../assets/files/Lista_Exercicio_1__ED2.PDF)
 | Questão  | Resolução |
 | ------------- | ------------- |
 | Prática 1 | [🟢](./questao_1.c)|
@@ -7,4 +7,4 @@
 | ...  | ...  |
 
 ***
-[Voltar ao Início](/../README.md)
+[Voltar ao Início](./../README.md)
