@@ -1,4 +1,12 @@
 # Estrutura de Dados 2 - Fametro
-### Repositório criado com o objetivo de armazenar as listas de exercícios da matéria de estrutura de dados, junto com sua resolução.
+## 📍Objetivo
+Repositório criado para armazenar listas de exercícios e suas resoluções para a matéria, além dos conteúdos.
+## Listas de Exercícios
+| Lista  | Resolução |
+| ------------- | ------------- |
+| [1 - Ponteiros e Funções](/assets/files/Lista_Exercicio_1_ED2.pdf)  | [Guia 1](/lista_exercicios_1_ponteiros/guia-lista-1.md)|
+| ...  | ...  |
+| ...  | ...  |
 
-Aluno - Daniel Melo Vieira
+***
+_Aluno: Daniel Melo Vieira_
