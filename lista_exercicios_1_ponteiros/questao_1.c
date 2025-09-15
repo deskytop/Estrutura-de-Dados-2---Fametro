@@ -1,5 +1,6 @@
 #include <stdio.h>
-void troca(int *a, int *b){
+// Função que troca os valores de duas variáveis usando ponteiros
+void troca(int *a, int *b){ 
     int temp = *a;
     *a = *b;
     *b = temp;
@@ -10,6 +11,7 @@ void main(){
     scanf("%d", &a);
     scanf("%d", &b);
     printf("Antes: \n a = %d, b = %d", a, b);
+    // Chama a função
     troca(&a,&b);
     printf("\nDepois: \n a = %d, b = %d", a, b);
 }
