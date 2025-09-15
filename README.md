@@ -4,7 +4,7 @@ Repositório criado para armazenar listas de exercícios e suas resoluções par
 ## Listas de Exercícios
 | Lista  | Resolução |
 | ------------- | ------------- |
-| [1 - Ponteiros e Funções](/assets/files/Lista_Exercicio_1_ED2.pdf)  | [Guia 1](/lista_exercicios_1_ponteiros/guia-lista-1.md)|
+| [1 - Ponteiros em C](/assets/files/Lista_Exercicio_1_ED2.pdf)  | [Guia 1](/lista_exercicios_1_ponteiros/guia-lista-1.md)|
 | ...  | ...  |
 | ...  | ...  |
 
