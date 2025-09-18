@@ -4,7 +4,8 @@
 | ------------- | ------------- |
 | Prática 1 - Troca de Valores | [ 🟢 ](./questao_1.c) |
 | Prática 2 - Maior e Menor | [ 🟢 ](./questao_2.c) |
-| Prática 3 - Maior e Menor | [ 🟢 ](./questao_3.c) |
+| Prática 3 - Endereços de Memória | [ 🟢 ](./questao_3.c) |
+| Prática 4 - Dobro do Valor | [ 🟢 ](./questao_4.c) |
 | ... | ... |
 
 ***
