@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 // Encontrar o maior e menor valor do array
 void encontrarMaiorMenor(int *array, int tamanho, int *maior, int *menor) {
     *maior = array[0]; // inicializa com o primeiro elemento
