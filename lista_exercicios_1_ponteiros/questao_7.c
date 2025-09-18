@@ -17,9 +17,9 @@ void inverterString(char *str) {
 }
 
 void main() {
-    char texto[100];
     setlocale(LC_ALL, "Portuguese");
-
+    char texto[100];
+    
     printf("Digite uma palavra: ");
     fgets(texto, sizeof(texto), stdin);
 
