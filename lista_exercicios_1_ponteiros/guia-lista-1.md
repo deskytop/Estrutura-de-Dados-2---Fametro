@@ -9,6 +9,7 @@
 | Prática 5 - Cópia de String | [ 🟢 ](./questao_5.c) |
 | Prática 6 - Contagem de Vogais e Consoantes | [ 🟢 ](./questao_6.c) |
 | Prática 7 - Inversão de String | [ 🟢 ](./questao_7.c) |
+| Prática 8 - Calculadora Básica | [ 🟢 ](./questao_8.c) |
 
 ***
 [Voltar ao Início](./../README.md)
